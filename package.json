@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "read-excel-file": "^4.0.6"
+    "read-excel-file": "^5.5.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
